@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ajax.iml" filepath="$PROJECT_DIR$/.idea/ajax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ajaxnew/.idea/ajaxnew.iml" filepath="$PROJECT_DIR$/../ajaxnew/.idea/ajaxnew.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mmdagent_moji/.idea/mmdagent_moji.iml" filepath="$PROJECT_DIR$/../mmdagent_moji/.idea/mmdagent_moji.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test/.idea/test.iml" filepath="$PROJECT_DIR$/../test/.idea/test.iml" />
+    </modules>
+  </component>
+</project>
